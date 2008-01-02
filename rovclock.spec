@@ -7,6 +7,7 @@ License:        GPL
 Group:          System/Kernel and hardware
 URL:            http://www.hasw.net/linux/
 Source0:        http://www.hasw.net/linux/rovclock-%{version}.tar.bz2
+BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
 %description
 Rovclock is a Radeon overclocking utility.
