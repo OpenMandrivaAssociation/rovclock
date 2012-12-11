@@ -47,3 +47,33 @@ Radeon X800XL
 %attr(0755,root,root) %{_bindir}/%{name}
 
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 0:0.6e-5mdv2010.0
++ Revision: 433354
+- rebuild
+
+* Sat Aug 02 2008 Thierry Vignaud <tvignaud@mandriva.com> 0:0.6e-4mdv2009.0
++ Revision: 260280
+- rebuild
+
+* Mon Jul 28 2008 Thierry Vignaud <tvignaud@mandriva.com> 0:0.6e-3mdv2009.0
++ Revision: 251370
+- rebuild
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 0:0.6e-1mdv2008.1
++ Revision: 140747
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Wed Jan 03 2007 David Walluck <walluck@mandriva.org> 0.6e-1mdv2007.0
++ Revision: 103585
+- Import rovclock
+
+* Tue Dec 05 2006 David Walluck <walluck@mandriva.org> 0:0.6e-1mdv2007.1
+- release
+
