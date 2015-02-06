@@ -1,6 +1,6 @@
 Name:           rovclock
 Version:        0.6e
-Release:        %mkrel 5
+Release:        6
 Epoch:          0
 Summary:        Radeon overclocking utility
 License:        GPL
