@@ -5,7 +5,7 @@ Epoch:          0
 Summary:        Radeon overclocking utility
 License:        GPL
 Group:          System/Kernel and hardware
-URL:            http://www.hasw.net/linux/
+URL:            https://www.hasw.net/linux/
 Source0:        http://www.hasw.net/linux/rovclock-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
